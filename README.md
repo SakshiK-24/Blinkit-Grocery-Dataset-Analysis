@@ -52,4 +52,5 @@ Visualizations were built using **Matplotlib** and **Seaborn**.
 
 
 ## 📂 Project Structure
-
+- data/ -Cleaned dataset(CSV Format)
+- Blinkit_Project/ -BlinkitAnalysis(ipynb file)
